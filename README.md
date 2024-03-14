@@ -16,6 +16,6 @@ Data Cleaning and Dashboard Creation in Excel
     - Incorporated interactive elements such as drop-down menus and slicers to enhance user interactivity and data exploration.
 
 4. **Chart and Graph Creation:**
-    - Selected appropriate chart types (e.g., bar charts, line graphs, pie charts) to effectively represent different data trends and patterns.
+    - Selected appropriate chart types to effectively represent different data trends and patterns.
     - Customized chart elements including titles, axes labels, colors, and legends to improve clarity and visual appeal.
     - Ensured consistency in design elements across multiple charts for cohesive dashboard aesthetics.
